@@ -5,6 +5,5 @@ cc_library_headers {
         "gralloc",
         "include",
         "libdisplayconfig",
-        "libqdmetadata",
     ],
 }
